@@ -64,7 +64,7 @@ I'm a passionate full-stack developer who loves building scalable web applicatio
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](your-portfolio-url)
 
 ## 📈 Activity Graph
-[![Brandon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brandon-35&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Brandon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brandon-35&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 <div align="center">
