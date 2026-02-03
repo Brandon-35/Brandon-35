@@ -1,5 +1,5 @@
 # Hi there, I'm Brandon-35! 👋
-<!-- 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-stack+Web+Developer;Passionate+about+creating+web+applications;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
@@ -71,4 +71,4 @@ I'm a passionate full-stack developer who loves building scalable web applicatio
   <img src="https://komarev.com/ghpvc/?username=Brandon-35&color=blueviolet&style=flat-square&label=Profile+Views" />
 </div>
 
-⭐️ From [Brandon-35](https://github.com/Brandon-35)  -->
+⭐️ From [Brandon-35](https://github.com/Brandon-35)  
