@@ -12,7 +12,6 @@
 AI · iOS · Shopify. Solo, shipping ten small products in the open.
 
 [![Website](https://img.shields.io/badge/brandon--ta.com-F5B301?style=for-the-badge&logo=safari&logoColor=111)](https://brandon-ta.com)
-[![Tiếng Việt](https://img.shields.io/badge/Tiếng_Việt-111?style=for-the-badge&color=111&labelColor=111)](https://brandon-ta.com/vi/)
 [![Followers](https://img.shields.io/github/followers/Brandon-35?label=Followers&style=for-the-badge&color=F5B301&labelColor=111)](https://github.com/Brandon-35?tab=followers)
 
 </td>
